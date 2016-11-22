@@ -1,0 +1,11 @@
+Beware of these customized files:
+
+-make sure to update this:
+C:\Program Files (x86)\Bitnami\wordpress-4.4.2-1\apps\wordpress\htdocs\wp-content\themes\Newspaper\mobile\style.css
+
+-C:\Program Files (x86)\Bitnami\wordpress-4.4.2-1\apps\wordpress\htdocs\wp-content\themes\Newspaper-child-01\mobile\functions.php --> is different from the main file.
+
+-WP Booster file should be updated if necessary
+
+-copy .\mobile and .\includes and .\image to child folder
+
